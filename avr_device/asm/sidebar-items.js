@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["delay_cycles","Blocks the program for at least `cycles` CPU cycles."],["nop","No Operation"],["sleep","Sleep / Wait For Interrupt"],["wdr","Watchdog Reset"]]});
